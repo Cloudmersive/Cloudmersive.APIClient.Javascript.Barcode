@@ -1,0 +1,15 @@
+{
+  "name": "cloudmersive.apiclient.javascript.barcode",
+  "description": "Cloudmersive API client for the Barcode API, configured for Browser use",
+  "main": "cloudmersive-barcode-browser-jsclient.js",
+  "authors": [
+    "Cloudmersive <35204726+Cloudmersive@users.noreply.github.com>"
+  ],
+  "license": "Apache2.0",
+  "keywords": [
+    "cloudmersive",
+    "barcode",
+    "api"
+  ],
+  "homepage": "https://cloudmersive.com/barcode-api"
+}
