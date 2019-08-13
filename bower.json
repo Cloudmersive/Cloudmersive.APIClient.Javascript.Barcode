@@ -3,7 +3,7 @@
   "description": "Cloudmersive API client for the Barcode API, configured for Browser use",
   "main": "cloudmersive-barcode-browser-jsclient.js",
   "authors": [
-    "Cloudmersive <35204726+Cloudmersive@users.noreply.github.com>"
+    "Cloudmersive <support@cloudmersive.com>"
   ],
   "license": "Apache2.0",
   "keywords": [
